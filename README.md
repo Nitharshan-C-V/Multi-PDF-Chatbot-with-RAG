@@ -54,6 +54,8 @@ After uploading a PDF, users can ask:
 
 The chatbot fetches relevant sections and generates a natural language response.
 
+![UI](https://github.com/Nitharshan-C-V/Multi-PDF-Chatbot-with-RAG/blob/main/UI.png)
+
 ## 🏗 Future Improvements
 - Support for more file formats (e.g., DOCX, TXT)
 - Improved UI/UX enhancements
