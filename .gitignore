@@ -1,0 +1,31 @@
+# Python virtual environment
+venv/
+.env
+pyvenv.cfg
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+nbconf/
+
+# IDE settings (looks like you're using VS Code)
+.vscode/
+
+# Environment variables
+.env
+
+# Compiled Python files
+*.pyc
+
+# System files
+.DS_Store  # for macOS users
+Thumbs.db  # for Windows users
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
